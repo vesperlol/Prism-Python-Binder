@@ -1,4 +1,4 @@
-# Extension Spoofer by vesper#0003
+# Prism Python Binder by vesper#0003
 # follow my ig ' i_might_be_vesper ' or gay
 
 import os
