@@ -10,7 +10,7 @@ Prism also offers you the choice to..
 # How To Use
 1. Download python 3.9+ and add python to PATH (https://www.python.org)
 2. Run the batch file named "install.bat" to install every modules needed
-3. Watch the Tutorial Video in the folder "Discord Direct Link" to see how to get a discord direct link of your file
+3. Watch the Tutorial Video in the folder "Discord Direct Link" to see how to get a discord direct link of your file OR Watch the Tutorial Video in the folder "Anonfile Direct Link" to see how to get a anonfile direct link of your file
 4. Bind and wait for Prism to compile your EXE
 
 # Socials
